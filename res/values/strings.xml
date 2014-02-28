@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Wiki Summary</string>
+    <string name="action_settings">Wikipedia Rocks!</string>
+    <string name="hello_world">Welcome! Tap \'Next\' to get started.</string>
+
+</resources>
